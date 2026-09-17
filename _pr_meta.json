@@ -1,0 +1,8 @@
+{
+  "repo": "RomanAlexandroff/42-Smart-Cluster-Sign",
+  "number": 64,
+  "base": "main",
+  "head": "fix/issue-34",
+  "fork": "VedantMadane/RomanAlexandroff-42-Smart-Cluster-Sign",
+  "title": "fix: Bounds-check read_from_file restores with snprintf"
+}
